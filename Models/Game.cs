@@ -11,7 +11,7 @@
         }
 
         #region CONSTANTS
-        public static readonly string[] NotationsList = new string[4] { "⬛", "⬜", "🟧", "🟥" };
+        public static readonly string[] NotationsList = new string[4] { "🟩", "🟫", "🚩", "💣" };
         public static readonly string ToggleHighlight = "🟦";
         #endregion
 
